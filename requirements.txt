@@ -1,2 +1,5 @@
 google-genai 
 python-dotenv
+tavily-python
+qdrant-client>=1.10
+sentence-transformers
